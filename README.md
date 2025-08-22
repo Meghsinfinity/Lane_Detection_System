@@ -15,7 +15,7 @@ Before running the project, ensure the following are installed:
 ## ⚙ Setup and Installation
 
 1. *Clone the repository*
- bash
+   
  git clone [https://github.com/Meghsinfinity/Lane_Detection_System.git]
 
 # 2. Open the project
